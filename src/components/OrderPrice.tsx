@@ -8,8 +8,8 @@ const OrderPrice = ({setSelectPrice}) => {
             onChange={(e) => setSelectPrice(e.target.value)}
         >
             <option>Filtrar por precio</option>
-            <option value="asc">Mayor precio</option>
-            <option value="desc">Menor precio</option>
+            <option value="asc">Menor precio</option>
+            <option value="desc">Mayor precio</option>
         </select>
     )
 }

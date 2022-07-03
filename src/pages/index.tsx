@@ -3,16 +3,17 @@ import { NextPage } from "next";
 import SearchBar from "components/SearchBar";
 import ProductCard from "components/ProductCard";
 import OrderPrice from "components/OrderPrice";
-import ChangeView from "components/ChangeView";
 import getProductList from "services/getProductList";
 import { Product } from "types/types";
+import dynamic from "next/dynamic";
 
 const HomePage: NextPage = () => {
 
   const [productList, setProductList] = useState<Array<Product>>([])
   const [filteredProducts, setFilteredProducts] = useState<Array<Product>>([])
   const [selectPrice, setSelectPrice] = useState<String>('')
-  const [selectView, setSelectView] = useState<Object>({})
+  const [selectView, setSelectView] = useState<Number>(3)
+  const ChangeView = dynamic(() => import("../components/ChangeView"), {ssr:false})
 
   useEffect(() => {
     getProductList().then((products) => {
@@ -38,7 +39,7 @@ const HomePage: NextPage = () => {
             />
           </div>
         </form>
-        <section className="grid-container">
+        <section className={`grid-container-${selectView}`}>
         {
           filteredProducts ?
           filteredProducts
