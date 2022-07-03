@@ -1,0 +1,98 @@
+[
+	{
+		"productName": "Polo combinado manga corta bebé niño",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-combinado-manga-corta-bebe-nino_id_22-01109-046-M-4.JPG",
+		"isDiscount": false,
+		"price": 16.99,
+		"prevPrice": 0,
+		"moreColors": false
+	},
+	{
+		"productName": "Polo manga corta contrastes chico ",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-corta-contrastes-chico_id_22-06107-044-M-4.JPG",
+		"isDiscount": false,
+		"price": 24.99,
+		"prevPrice": 0,
+		"moreColors": true
+	},
+	{
+		"productName": " Polo manga corta contrastes chico",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-corta-contrastes-chico_id_22-06107-045-M-4.JPG",
+		"isDiscount": true,
+		"price": 12.54,
+		"prevPrice": 16.99,
+		"moreColors": true
+	},
+	{
+		"productName": "Polo mao ECOFRIENDS chico",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-mao-ecofriends-chico_id_22-56120-700-M-4.JPG",
+		"isDiscount": true,
+		"price": 16.90,
+		"prevPrice": 22.99,
+		"moreColors": false
+	},
+	{
+		"productName": "Polo piqué cuello mao ECOFRIENDS bebé niño",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-pique-cuello-mao-ecofriends-bebe-nino_id_22-52126-700-M-4.JPG",
+		"isDiscount": false,
+		"price": 16.99,
+		"prevPrice": 0,
+		"moreColors": true
+	},
+	{
+		"productName": "Polo mini estampados ECOFRIENDS bebé niño",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-mini-estampados-ecofriends-bebe-nino_id_22-52117-700-M-4.JPG",
+		"isDiscount": true,
+		"price": 12.90,
+		"prevPrice": 16.99,
+		"moreColors": true
+	},
+	{
+		"productName": "Polo granito estampado ECOFRIENDS niño",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-granito-estampado-ecofriends-nino_id_22-54137-700-M-4.JPG",
+		"isDiscount": false,
+		"price": 18.99,
+		"prevPrice": 0,
+		"moreColors": false
+	},
+	{
+		"productName": "Polo manga corta bebé niño",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-corta-bebe-nino_id_22-01103-060-M-4.JPG",
+		"isDiscount": true,
+		"price": 12.50,
+		"prevPrice": 16.99,
+		"moreColors": true
+	},
+	{
+		"productName": "Polo mini estampados ECOFRIENDS bebé niño",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-mini-estampados-ecofriends-bebe-nino_id_22-52115-700-M-4.JPG",
+		"isDiscount": false,
+		"price": 16.99,
+		"prevPrice": 0,
+		"moreColors": true
+	},
+	{
+		"productName": "Polo granito blocking ECOFRIENDS niño",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-granito-blocking-ecofriends-nino_id_22-54119-700-M-4.JPG",
+		"isDiscount": true,
+		"price": 14.90,
+		"prevPrice": 18.99,
+		"moreColors": false
+	},
+	{
+		"productName": "Polo piqué blocking ECOFRIENDS chico",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-pique-combinado-ecofriends-nino_id_22-54118-700-M-4.JPG",
+		"isDiscount": true,
+		"price": 18.99,
+		"prevPrice": 22.99,
+		"moreColors": true
+	},
+	{
+		"productName": "Polo manga corta piqué cuello mao",
+		"image": "https://www.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-corta-pique-cuello-mao-ecofriends-chico_id_22-56125-700-M-4.JPG",
+		"isDiscount": false,
+		"price": 22.99,
+		"prevPrice": 0,
+		"moreColors": false
+	}
+]

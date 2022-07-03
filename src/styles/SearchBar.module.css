@@ -1,0 +1,21 @@
+.SearchBarContainer{
+    display: flex;
+    padding: 0.25rem;
+    border: 3px solid #ccc;
+    border-radius: 0.75rem;
+    width: 50%;
+}
+
+.SearchBarIcon{
+    height: 1.8rem;
+    width: 1.8rem;
+    color:#D4D4D6;
+}
+
+.SearchBarInput{
+    outline: none;
+    border: 0;
+    font-size: 1rem;
+    padding-left: 0.5rem;
+    width: 100%;
+}

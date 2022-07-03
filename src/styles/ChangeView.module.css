@@ -1,0 +1,10 @@
+.ChangeViewIcon{
+    height: 2rem;
+    width: 2rem;
+    color: gray;
+}
+
+.ChangeViewButton{
+    background-color: transparent;
+    border: 0;
+}
