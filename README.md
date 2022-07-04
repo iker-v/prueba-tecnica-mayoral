@@ -1,6 +1,6 @@
 # Prueba técnica Mayoral
 
-!()[https://iconape.com/wp-content/files/am/202269/svg/202269.svg]
+!(Logo mayoral)[https://iconape.com/wp-content/files/am/202269/svg/202269.svg]
 
 ## 📝 Descripción
 
@@ -16,5 +16,5 @@ La prueba técnica consiste en implementar las siguientes funcionalidades:
 
 |  Desktop | Mobile |
 |:--------:|:------:|
-| ![Desktop](./.github/desktop.png) | ![Mobile](./.github/mobile.png)  |
+| ![Desktop](https://github.com/testmayoral/mayoral-assignment/raw/master/.github/desktop.png) | ![Mobile](https://github.com/testmayoral/mayoral-assignment/raw/master/.github/mobile.png)  |
   
