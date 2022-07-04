@@ -1,1 +1,20 @@
-# prueba-tecnica-mayoral
+# Prueba técnica Mayoral
+
+!()[https://iconape.com/wp-content/files/am/202269/svg/202269.svg]
+
+## 📝 Descripción
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)](#description)
+
+La prueba técnica consiste en implementar las siguientes funcionalidades:
+
+- Buscar por nombre los productos.
+- Filtrar por precio (mayor y menor).
+- Cambiar el número de columnas dependiendo la vista (escritorio o móvil).
+- Cargar los datos desde un JSON.
+- Crear un diseño lo mas parecido posible al de las fotos.
+
+|  Desktop | Mobile |
+|:--------:|:------:|
+| ![Desktop](./.github/desktop.png) | ![Mobile](./.github/mobile.png)  |
+  
