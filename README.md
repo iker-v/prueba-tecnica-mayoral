@@ -1,6 +1,6 @@
 # Prueba técnica Mayoral
 
-!(Logo mayoral)[https://iconape.com/wp-content/files/am/202269/svg/202269.svg]
+![Logo mayoral](https://iconape.com/wp-content/files/am/202269/svg/202269.svg)
 
 ## 📝 Descripción
 
