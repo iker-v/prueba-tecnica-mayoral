@@ -13,6 +13,7 @@ const HomePage: NextPage = () => {
   const [filteredProducts, setFilteredProducts] = useState<Array<Product>>([])
   const [selectPrice, setSelectPrice] = useState<String>('')
   const [selectView, setSelectView] = useState<Number>(3)
+  const [device, setDevice] = useState<String>('')
   const ChangeView = dynamic(() => import("../components/ChangeView"), {ssr:false})
 
   useEffect(() => {
@@ -34,7 +35,7 @@ const HomePage: NextPage = () => {
               setSelectPrice={setSelectPrice}
             />
             <ChangeView
-              selectView={selectView}
+              setDevice={setDevice}
               setSelectView={setSelectView}
             />
           </div>
@@ -63,7 +64,7 @@ const HomePage: NextPage = () => {
         }
         </section>
         <footer className="fixed-alert">
-          <h3></h3>
+          <h3>{device}</h3>
         </footer>
       </main>
   );

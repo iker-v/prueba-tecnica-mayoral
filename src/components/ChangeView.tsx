@@ -3,13 +3,14 @@ import calculateColumns from "utils/calculateColumns"
 import dynamic from "next/dynamic"
 import { useEffect } from "react"
 
-const ChangeView = ({setSelectView, selectView}) => {
+const ChangeView = ({setSelectView, setDevice}) => {
     
-    const { plus, minus } = calculateColumns()
-    useEffect(()=> {
-        console.log(minus)
-        console.log(selectView)
-    }, [selectView])
+    const { plus, minus, device } = calculateColumns()
+
+    useEffect(() => {
+        console.log(device)
+        setDevice(device)
+    }, [])
 
     return (
         <div>

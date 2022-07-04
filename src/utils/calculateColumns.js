@@ -11,7 +11,7 @@ const calculateColumns = () => {
         viewValues.minus = 3
         viewValues.plus = 4
     } else {
-        viewValues.device = 'Movíl'
+        viewValues.device = 'Móvil'
         viewValues.minus = 2
         viewValues.plus = 3
     }
