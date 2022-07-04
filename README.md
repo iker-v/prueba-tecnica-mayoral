@@ -10,7 +10,7 @@ La prueba técnica consiste en implementar las siguientes funcionalidades:
 
 - Buscar por nombre los productos.
 - Filtrar por precio (mayor y menor).
-- Cambiar el número de columnas dependiendo la vista (escritorio o móvil).
+- Cambiar el número de columnas mediante los botones.
 - Cargar los datos desde un JSON.
 - Crear un diseño lo mas parecido posible al de las fotos.
 
